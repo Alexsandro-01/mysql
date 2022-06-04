@@ -18,8 +18,4 @@ GROUP BY
 ORDER BY
   seguidores DESC,
   artista ASC,
-  album ASC
-
-  
-
-
+  album ASC;
